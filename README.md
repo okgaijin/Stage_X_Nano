@@ -4,7 +4,7 @@ Very small split sequential &amp; wasted spark ECU based on 0.4 Speeduino board,
 
 I have tried to make as small as possible but also as capable. I have chosen robust and over rated components to ensure durability and ruggedness. Outputs and Inputs are protected against spikes and other vehicle noisyness.
 The Stage X Nano is more like a proof of concept for the other versions to come!
-Here is a summed of what's inside.
+Here is a sample of what's inside.
 
 - Infineon high quality Optimos N channel Mosfet
 - Texas Instrument high speed logic level gate driver
