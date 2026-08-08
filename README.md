@@ -7,11 +7,11 @@ The Stage X Nano is more like a proof of concept for other versions to come!
 
 Here is a sample of what's inside.
 
-- Infineon high quality Optimos N channel Mosfet
-- Texas Instrument high speed logic level gate driver
-- Texas instrument RTR low noise OpAmp
+- High quality N channel Mosfet
+- High speed logic level gate driver
+- RTR low noise OpAmp
 - Real time injectors, COPs, Fuel pump and Cooling fan power monitoring
-- Infineon Profet High side smart switch
+- High side smart switch
 - Reverse polarity protection
 - Hi efficiency and low noise DCDC Buck converter
 - No fuse, nor relay needed
